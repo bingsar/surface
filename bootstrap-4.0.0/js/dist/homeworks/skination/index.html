@@ -1,0 +1,22 @@
+<style>
+
+
+.main-image {    
+    position: relative;
+    max-width: 300px;
+}
+.main-image .image-hidden{    
+    opacity: 0;      
+}
+.main-image:hover .image-hidden{
+    opacity: 1;
+    position: absolute; top: 0; left: 0;  
+    transition: all 0.5s ease-in-out;   
+}
+
+</style>
+
+<div class="main-image">
+    <img src="group.png" alt="" />
+    <img class="image-hidden" src="group1.png" alt="" />
+</div>

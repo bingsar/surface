@@ -1,0 +1,91 @@
+[
+	{
+		"question": "When the UNIX era started?",
+		"answers": [{
+				"q1": "1 january 1975 year"
+			},
+			{
+				"q2": "1 august 1970 year"
+			},
+			{
+				"q3": "1 january 1970 year"
+			},
+			{
+				"q4": "1 august 1975 year"
+			}
+		],
+		"correct": "1 january 1970 year"
+	},
+	{
+		"question": "How many types of data can be in PHP?",
+		"answers": [{
+				"q1": "8"
+			},
+			{
+				"q2": "4"
+			},
+			{
+				"q3": "10"
+			},
+			{
+				"q4": "12"
+			}
+		],
+		"correct": "10"
+
+	},
+	{
+		"question": "What is the name of the first version of PHP?",
+		"answers": [{
+				"q1": "PHP/CS"
+			},
+			{
+				"q2": "PHP/FI"
+			},
+			{
+				"q3": "PHP/D"
+			},
+			{
+				"q4": "PHP/PE"
+			}
+		],
+		"correct": "PHP/FI"
+
+	},
+	{
+		"question": "Who created PHP",
+		"answers": [{
+				"q1": "Zeev Suraski"
+			},
+			{
+				"q2": "Andi Gutmans"
+			},
+			{
+				"q3": "Bill Gates"
+			},
+			{
+				"q4": "Rasmus Lerdorf"
+			}
+		],
+		"correct": "Rasmus Lerdorf"
+
+	},
+	{
+		"question": "What animal is usually associated with PHP?",
+		"answers": [{
+				"q1": "Gorilla"
+			},
+			{
+				"q2": "Giraffe"
+			},
+			{
+				"q3": "Elephant"
+			},
+			{
+				"q4": "Donkey"
+			}
+		],
+		"correct": "Elephant"
+
+	}
+]
